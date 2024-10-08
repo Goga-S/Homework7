@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234DEC7B-260D-4E77-9316-A5C94C17F2C6}|task 7.6\\task 7.6.csproj|c:\\users\\user\\desktop\\homeworks\\homework7\\consoleapp1\\task 7.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234DEC7B-260D-4E77-9316-A5C94C17F2C6}|task 7.6\\task 7.6.csproj|solutionrelative:task 7.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9BC73A-83A8-439B-B590-B2A2F64E34F1}|task 7.5\\task 7.5.csproj|C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9BC73A-83A8-439B-B590-B2A2F64E34F1}|task 7.5\\task 7.5.csproj|solutionrelative:task 7.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093EDB0-A471-4607-B185-48F979E80E62}|task 7.4\\task 7.4.csproj|C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3093EDB0-A471-4607-B185-48F979E80E62}|task 7.4\\task 7.4.csproj|solutionrelative:task 7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4897AB-894A-46D5-99F5-6CFAA852021D}|Task 7.3\\Task 7.3.csproj|C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4897AB-894A-46D5-99F5-6CFAA852021D}|Task 7.3\\Task 7.3.csproj|solutionrelative:task 7.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA73541-C0DC-4F69-B928-E0AE975004FE}|Task 7.2\\Task 7.2.csproj|C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA73541-C0DC-4F69-B928-E0AE975004FE}|Task 7.2\\Task 7.2.csproj|solutionrelative:task 7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57751F00-2EC2-4FDE-8425-0FAA1D7A1F2C}|task 7.1\\task 7.1.csproj|C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57751F00-2EC2-4FDE-8425-0FAA1D7A1F2C}|task 7.1\\task 7.1.csproj|solutionrelative:task 7.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.6\\Program.cs",
+              "RelativeDocumentMoniker": "task 7.6\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.6\\Program.cs",
+              "RelativeToolTip": "task 7.6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:33:26.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.5\\Program.cs",
+              "RelativeDocumentMoniker": "task 7.5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.5\\Program.cs",
+              "RelativeToolTip": "task 7.5\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:32:47.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.4\\Program.cs",
+              "RelativeDocumentMoniker": "task 7.4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.4\\Program.cs",
+              "RelativeToolTip": "task 7.4\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:36:03.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\Task 7.3\\Program.cs",
+              "RelativeDocumentMoniker": "Task 7.3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\Task 7.3\\Program.cs",
+              "RelativeToolTip": "Task 7.3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:58:26.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\Task 7.2\\Program.cs",
+              "RelativeDocumentMoniker": "Task 7.2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\Task 7.2\\Program.cs",
+              "RelativeToolTip": "Task 7.2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:38:29.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.1\\Program.cs",
+              "RelativeDocumentMoniker": "task 7.1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Homeworks\\Homework7\\ConsoleApp1\\task 7.1\\Program.cs",
+              "RelativeToolTip": "task 7.1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:14:17.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

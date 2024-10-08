@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.1\bin\Debug\task 7.1.exe.config
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.1\bin\Debug\task 7.1.exe
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.1\bin\Debug\task 7.1.pdb
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.1\obj\Debug\task 7.1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.1\obj\Debug\task 7.1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.1\obj\Debug\task 7.1.exe
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.1\obj\Debug\task 7.1.pdb

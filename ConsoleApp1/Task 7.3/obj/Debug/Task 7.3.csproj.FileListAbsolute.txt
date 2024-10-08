@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\Task 7.3\bin\Debug\Task 7.3.exe.config
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\Task 7.3\bin\Debug\Task 7.3.exe
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\Task 7.3\bin\Debug\Task 7.3.pdb
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\Task 7.3\obj\Debug\Task 7.3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\Task 7.3\obj\Debug\Task 7.3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\Task 7.3\obj\Debug\Task 7.3.exe
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\Task 7.3\obj\Debug\Task 7.3.pdb

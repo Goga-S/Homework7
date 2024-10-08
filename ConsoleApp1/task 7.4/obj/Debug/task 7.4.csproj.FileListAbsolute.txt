@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.4\bin\Debug\task 7.4.exe.config
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.4\bin\Debug\task 7.4.exe
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.4\bin\Debug\task 7.4.pdb
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.4\obj\Debug\task 7.4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.4\obj\Debug\task 7.4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.4\obj\Debug\task 7.4.exe
+C:\Users\user\Desktop\Homeworks\Homework7\ConsoleApp1\task 7.4\obj\Debug\task 7.4.pdb
